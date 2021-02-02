@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=roffly&hide=contribs,prs)
+![My Stats](https://github-readme-stats.vercel.app/api?username=roffly&show_icons=true&theme=radical)
