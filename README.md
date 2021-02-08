@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 ### 📫 Captain Bot Developer: ...
 
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=roffly&show_icons=true&theme=radical)
+![My Stats](https://angelgiveaway-bot.glitch.me/stats)
