@@ -11,4 +11,9 @@ Here are some ideas to get you started:
 ### 📫 Captain Bot Developer: ...
 
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=roffly&show_icons=true&theme=radical)
+<html>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Roffly&show_icons=true&theme=radical" width="%100" height="150px" alt="stats" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roffly&layout=compact" width="%100" height="150px" alt="stats" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Roffly&theme=nord" width="%100" height="150px" alt="stats" />
+</p>
