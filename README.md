@@ -19,14 +19,10 @@
 <br />
 <br />
 
-<details>
+
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=roffly&theme=radical" >
-</details>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roffly&layout=compact" >
 
 
 [discord]: https://discord.com/users/715576724674314360
