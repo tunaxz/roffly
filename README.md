@@ -23,7 +23,8 @@
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=roffly&theme=radical" >
 
-
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roffly&layout=compact">
 
 [discord]: https://discord.com/users/715576724674314360
 [instagram]: https://instagram.com/roffly.dev
